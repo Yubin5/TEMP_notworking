@@ -29,7 +29,7 @@ TBD ASAP
 
 - 이번 주에 한 일:
   - 챗봇 프로젝트 대비 개인 서버 정비
-    - Ollama Gemma4 12b, 26b 세팅 및 테스트.
+    - Ollama Gemma4 12b, 26b 세팅 및 api 호출 테스트.
     - 보안상 tailscale 네트워크로만 연결(추후 임시 포트포워딩 & 개방 등 방안 고려)
   - github 레포 관리
 - 새롭게 알게 된 것:
