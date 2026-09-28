@@ -1,4 +1,4 @@
-<img width="2557" height="1330" alt="pepar" src="https://github.com/user-attachments/assets/66c25b57-fcf5-4068-b17e-108ca4272c4b" />
+<img width="2560" height="1440" alt="pepar" src="https://github.com/user-attachments/assets/98eda009-c842-41a9-92dc-67575b0e8522" />
 
 # PEPAR
 
