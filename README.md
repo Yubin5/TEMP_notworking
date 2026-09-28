@@ -1,4 +1,7 @@
+<img width="2557" height="1330" alt="pepar" src="https://github.com/user-attachments/assets/66c25b57-fcf5-4068-b17e-108ca4272c4b" />
+
 # PEPAR
+
 ## PEPAR 프로젝트 소개
 
 - arxiv 등지에 배포된 논문과 같은 영문 자료를 번역을 해야할 때가 있었음.
@@ -9,7 +12,7 @@
 
 ## 구조
 
-이미지 삽입 예정
+<img width="2557" height="1330" alt="pipeline" src="https://github.com/user-attachments/assets/05c757ba-8930-47ed-80aa-db93fe34d9f4" />
 
 - 백엔드: Python 3.11, Flask, requests, BeautifulSoup + lxml
 - LLM: llama.cpp 라우터(SYCL) + Intel Arc Pro B50 16GB, 기본 gemma4-12b
