@@ -15,7 +15,7 @@
 <img width="2000" height="1330" alt="pipeline" src="https://github.com/user-attachments/assets/56da5dc2-2d1c-4ed5-a1ad-62c19ea475ec" />
 
 - 백엔드: Python 3.11, Flask, requests, BeautifulSoup + lxml
-- LLM: llama.cpp 라우터(SYCL) + Intel Arc Pro B50 16GB, 기본 gemma4-12b
+- LLM: llama.cpp 라우터(SYCL) + Intel Arc Pro B50 16GB, gemma4-12b 권장
 - 저장: DB 없이 파일 캐시 (모델별 번역 HTML, 메타, 체크포인트)
 - 운영: systemd 사용자 서비스, Tailscale 내부망 전용
 
